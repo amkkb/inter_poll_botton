@@ -1,0 +1,1 @@
+cmd_/home/healer/myshare/drvlearn/inter_botton/inter_botton.ko := arm-linux-ld -EL  -r -o /home/healer/myshare/drvlearn/inter_botton/inter_botton.ko /home/healer/myshare/drvlearn/inter_botton/inter_botton.o /home/healer/myshare/drvlearn/inter_botton/inter_botton.mod.o

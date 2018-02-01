@@ -1,0 +1,1 @@
+cmd_/home/healer/myshare/drvlearn/inter_botton_syn/built-in.o :=  rm -f /home/healer/myshare/drvlearn/inter_botton_syn/built-in.o; arm-linux-ar rcs /home/healer/myshare/drvlearn/inter_botton_syn/built-in.o
